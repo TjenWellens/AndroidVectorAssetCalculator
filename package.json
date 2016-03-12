@@ -1,0 +1,19 @@
+{
+  "name": "android_vector_asset_calculator",
+  "version": "1.0.0",
+  "description": "Calculate width, height, viewportWidth, viewportHeight, translateX, translateY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TjenWellens/AndroidVectorAssetCalculator.git"
+  },
+  "author": "TjenWellens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TjenWellens/AndroidVectorAssetCalculator/issues"
+  },
+  "homepage": "https://github.com/TjenWellens/AndroidVectorAssetCalculator#readme"
+}
