@@ -119,7 +119,7 @@ function e (id) {
 }
 
 function getDimension (dimension, property, element) {
-  dimension[property] = element.value;
+  dimension[property] = parseInt(element.value);
 }
 
 function updateInput (dimension, property, element) {
